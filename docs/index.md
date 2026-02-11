@@ -13,4 +13,4 @@ This is a promotional website for MW-Store featuring product listings and a shop
 
 ## Usage
 
-Visit the main site at [mwpromo/index.html](../mwpromo/index.html) to view the promotional page.
+Visit the main site at [mwpromo/index.html](/mwpromo/index.html) to view the promotional page.
